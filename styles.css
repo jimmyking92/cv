@@ -15,6 +15,7 @@ h1 {
 
 h2 {
   color: #1A3C40;
+  font-weight: bold;
 }
 
 h3 {
@@ -23,6 +24,7 @@ h3 {
 
 p {
   font-family: 'Montserrat', sans-serif;
+  font-weight: bold;
 }
 
 .top {
@@ -61,5 +63,4 @@ p {
 .intro {
   padding-bottom: 20px;
 }
-
 
