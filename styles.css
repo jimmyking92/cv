@@ -2,6 +2,7 @@ body {
   margin: 0;
   text-align: center;
   font-family: 'Merriweather Sans', sans-serif;
+  background-color: #EDE6DB;
 
 }
 
@@ -33,6 +34,13 @@ p {
   position: relative;
 }
 
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 30px;
+}
+
 .middle {
 
 }
@@ -56,6 +64,17 @@ p {
 
 }
 
+.skillpng1 {
+  width: 25%;
+  float: left;
+  margin: auto 20px auto auto;
+}
+
+.skillpng2 {
+  width: 25%;
+  float: right;
+  margin: auto auto auto 30px;
+}
 .liolios {
   padding-top: 20px;
   border-radius: 50%;
@@ -63,4 +82,5 @@ p {
 .intro {
   padding-bottom: 20px;
 }
+
 
